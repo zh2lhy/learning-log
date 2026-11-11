@@ -1,0 +1,98 @@
+# 术语表（源文件）
+# 一行一个词，格式：英文 | 中文 | 我的例子
+# 以 # 开头是注释，空行会被忽略。手机上用任何文本编辑器都能加一行。
+# 想在电脑上看表格：双击「更新术语表.bat」
+
+# ===== IDEA 界面 =====
+Project | 项目 |
+Module | 模块 |
+Package | 包 |
+Class | 类 |
+File | 文件 |
+Edit | 编辑 |
+View | 视图 |
+Navigate | 导航 |
+Refactor | 重构 |
+Build | 构建 |
+Run | 运行 |
+Debug | 调试 |
+Terminal | 终端 |
+Settings | 设置 |
+Plugin | 插件 |
+Theme | 主题 |
+Color Scheme | 配色方案 |
+Highlight | 高亮 |
+Inspection | 检查 |
+Warning | 警告 |
+Error | 错误 |
+SDK | 开发工具包 |
+Dependency | 依赖 |
+Version Control | 版本控制 |
+Commit | 提交 |
+Push | 推送 |
+Pull | 拉取 |
+Branch | 分支 |
+Merge | 合并 |
+Conflict | 冲突 |
+
+# ===== Java 语法 =====
+variable | 变量 |
+constant | 常量 |
+type | 类型 |
+primitive type | 基本类型 |
+wrapper class | 包装类 |
+cast | 强制类型转换 |
+operator | 运算符 |
+operand | 操作数 |
+expression | 表达式 |
+statement | 语句 |
+literal | 字面量 |
+declaration | 声明 |
+initialization | 初始化 |
+assignment | 赋值 |
+scope | 作用域 |
+method | 方法 |
+parameter | 形参 |
+argument | 实参 |
+return | 返回 |
+void | 无返回值 |
+object | 对象 |
+instance | 实例 |
+field | 字段 / 成员变量 |
+constructor | 构造器 |
+inheritance | 继承 |
+override | 重写 |
+overload | 重载 |
+interface | 接口 |
+abstract | 抽象 |
+static | 静态 |
+final | 最终（不可再变） |
+null | 空 |
+reference | 引用 |
+array | 数组 |
+index | 索引 |
+length | 长度 |
+loop | 循环 |
+iteration | 迭代 |
+condition | 条件 |
+branch | 分支 |
+
+# ===== 编译与运行 =====
+source code | 源代码 |
+compile | 编译 |
+compiler | 编译器 |
+bytecode | 字节码 |
+JVM | Java 虚拟机 |
+JDK | Java 开发工具包 |
+JRE | Java 运行环境 |
+runtime | 运行时 |
+exception | 异常 |
+stack trace | 堆栈跟踪 |
+throw | 抛出 |
+catch | 捕获 |
+bug | 缺陷 |
+breakpoint | 断点 |
+console | 控制台 |
+input / output | 输入 / 输出 |
+
+# ===== 生词本 =====
