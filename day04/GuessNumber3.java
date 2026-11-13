@@ -16,7 +16,7 @@ public class GuessNumber3 {
         java.util.Random rand = new java.util.Random();
         int answer = rand.nextInt(100) + 1;   // 1~100
         //    输入一个整数猜，提示 大了 或 小了,最多只能猜 7 次
-        int count = 1;
+        int count = 0;
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个整数猜，提示 大了 或 小了,最多只能猜 7 次:");
         for (int i = 1; i <= 7; i++) {
